@@ -1,0 +1,19 @@
+Como a questão deixou meio confuso se são 3 lâmpadas na mesma sala ou se são
+3 lâmpadas em salas diferentes então abordarei as duas linhas de raciocínio.
+
+1 Caso (3 salas diferentes):
+    Eu acenderia duas lâmpadas e deixaria tempo suficiente para que elas aquecam
+após esse tempo eu desligaria uma delas e iria para uma das salas, se chegando na 
+sala a luz estivesse acesa, o interruptor q permaneceu aceso seria o correspondente
+se ela estivesse apagada e quente, seria o interruptor que desliguei antes de sair 
+da sala de interruptores e se ela estivesse desligada e fria seria o interruptor que não
+liguei. Após isso iria em outra sala verificar o estado da lâmpada com base na mesma
+análise feita na primeira sala, para assim tirar a conclusão final.
+
+2 Caso (Todas na mesma sala):
+    Eu ligaria 2 interruptores e iria na sala, a lâmpada desligada pertenceria ao interruptor
+que permaneceu desligado, apos isso voltaria e desligaria um dos interruptores que eu havia
+ligado, assim ao voltar na sala a luz que estava acesa e apagou seria controlada por ele a 
+que permaneceu acesa pertence ao interruptor que permaneceuligado.
+
+:)
